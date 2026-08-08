@@ -8,6 +8,7 @@
 
 **Author:** Hilal Ozkan  
 **Methodology:** Feature Engineering & Advanced Regression Analysis  
+**Dataset:** [UCI Machine Learning Repository (Estimation of Obesity Levels)](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)  
 
 This project investigates a highly actionable machine learning question: **Can we predict a person's exact obesity level based *purely* on their lifestyle and dietary habits?** By analyzing the UCI Obesity dataset, the analysis demonstrates how to tackle severe **Data Leakage** (removing weight to prevent BMI reverse-engineering) and pushes the limits of linear algorithms. The project successfully engineers **Polynomial Features** and **Dynamic Decision Boundaries** on a **Ridge Regression (L2)** model to predict 7 ordinal obesity stages, proving that strict linear architectures can be optimized to capture complex, non-linear human behaviors.
 
@@ -19,6 +20,7 @@ This project investigates a highly actionable machine learning question: **Can w
 
 **Yazar:** Hilal Ozkan  
 **Metodoloji:** Feature Engineering & İleri Regresyon Analizi  
+**Veri Seti:** [UCI Machine Learning Repository (Estimation of Obesity Levels)](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)   
 
 Bu proje, makine öğrenmesi alanında oldukça pratik bir soruyu araştırıyor: **Bir kişinin obezite seviyesini *sadece* yaşam tarzı ve beslenme alışkanlıklarına dayanarak tahmin edebilir miyiz?** UCI Obezite veri seti analiz edilerek, ciddi **Veri Sızıntısı (Data Leakage)** problemlerinin nasıl çözüleceği (BMI tersine mühendisliğini engellemek için kilonun çıkarılması) ve doğrusal algoritmaların sınırlarının nasıl zorlanacağı gösterilmektedir. Proje, **Polinom Özellikler (Polynomial Features)** ve **Dinamik Karar Sınırları (Dynamic Decision Boundaries)** mühendisliği ile güçlendirilmiş bir **Ridge Regresyon (L2)** modeli kullanarak 7 sıralı obezite evresini tahmin etmiş ve katı doğrusal mimarilerin karmaşık, doğrusal olmayan insan davranışlarını yakalayacak şekilde optimize edilebileceğini kanıtlamıştır.
 
